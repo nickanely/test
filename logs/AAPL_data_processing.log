@@ -1,0 +1,60 @@
+2024-12-16 16:09:19 - AAPL_data_processor - INFO: Starting data processing workflow for AAPL
+2024-12-16 16:09:19 - AAPL_data_processor - INFO: Fetching stock data for AAPL
+2024-12-16 16:09:20 - AAPL_data_processor - INFO: Raw data saved to data\AAPL_raw_data.csv
+2024-12-16 16:09:20 - AAPL_data_processor - INFO: Starting data processing
+2024-12-16 16:09:20 - AAPL_data_processor - INFO: Initial data rows: 6324
+2024-12-16 16:09:20 - AAPL_data_processor - INFO: 
+--- Data Validation Report ---
+Initial Rows: 6324
+Missing Rows Removed: 0
+Duplicate Rows Removed: 2
+Invalid Rows Removed: 1
+Final Rows: 6321
+-----------------------------
+2024-12-16 16:09:20 - AAPL_data_processor - INFO: Cleaned data saved to data\AAPL_cleaned_data.csv
+2024-12-16 16:09:20 - AAPL_data_processor - INFO: Data processing completed successfully for AAPL
+2024-12-23 16:25:07 - AAPL_data_processor - INFO: Starting data processing workflow for AAPL
+2024-12-23 16:25:07 - AAPL_data_processor - INFO: Fetching stock data for AAPL
+2024-12-23 16:25:09 - AAPL_data_processor - INFO: Raw data saved to data\AAPL/raw_data.csv
+2024-12-23 16:25:09 - AAPL_data_processor - INFO: Starting data processing
+2024-12-23 16:25:09 - AAPL_data_processor - INFO: Initial data rows: 6329
+2024-12-23 16:25:09 - AAPL_data_processor - INFO: 
+--- Data Validation Report ---
+Initial Rows: 6329
+Missing Rows Removed: 0
+Duplicate Rows Removed: 2
+Invalid Rows Removed: 1
+Final Rows: 6326
+-----------------------------
+2024-12-23 16:25:09 - AAPL_data_processor - INFO: Cleaned data saved to data\AAPL/cleaned_data.csv
+2024-12-23 16:25:09 - AAPL_data_processor - INFO: Data processing completed successfully for AAPL
+2024-12-23 16:26:02 - AAPL_data_processor - INFO: Starting data processing workflow for AAPL
+2024-12-23 16:26:02 - AAPL_data_processor - INFO: Fetching stock data for AAPL
+2024-12-23 16:26:04 - AAPL_data_processor - INFO: Raw data saved to data\AAPL/stock_raw_data.csv
+2024-12-23 16:26:04 - AAPL_data_processor - INFO: Starting data processing
+2024-12-23 16:26:04 - AAPL_data_processor - INFO: Initial data rows: 6329
+2024-12-23 16:26:04 - AAPL_data_processor - INFO: 
+--- Data Validation Report ---
+Initial Rows: 6329
+Missing Rows Removed: 0
+Duplicate Rows Removed: 2
+Invalid Rows Removed: 1
+Final Rows: 6326
+-----------------------------
+2024-12-23 16:26:04 - AAPL_data_processor - INFO: Cleaned data saved to data\AAPL/stock_cleaned_data.csv
+2024-12-23 16:26:04 - AAPL_data_processor - INFO: Data processing completed successfully for AAPL
+2024-12-23 16:27:26 - AAPL_data_processor - INFO: Starting data processing workflow for AAPL
+2024-12-23 16:27:26 - AAPL_data_processor - INFO: Fetching stock data for AAPL
+2024-12-23 16:27:27 - AAPL_data_processor - INFO: Raw data saved to data\AAPL/stock_raw_data.csv
+2024-12-23 16:27:27 - AAPL_data_processor - INFO: Starting data processing
+2024-12-23 16:27:27 - AAPL_data_processor - INFO: Initial data rows: 6329
+2024-12-23 16:27:27 - AAPL_data_processor - INFO: 
+--- Data Validation Report ---
+Initial Rows: 6329
+Missing Rows Removed: 0
+Duplicate Rows Removed: 2
+Invalid Rows Removed: 1
+Final Rows: 6326
+-----------------------------
+2024-12-23 16:27:27 - AAPL_data_processor - INFO: Cleaned data saved to data\AAPL/stock_cleaned_data.csv
+2024-12-23 16:27:27 - AAPL_data_processor - INFO: Data processing completed successfully for AAPL

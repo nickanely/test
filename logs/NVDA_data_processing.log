@@ -1,0 +1,80 @@
+2024-12-16 16:09:14 - NVDA_data_processor - INFO: Starting data processing workflow for NVDA
+2024-12-16 16:09:14 - NVDA_data_processor - INFO: Fetching stock data for NVDA
+2024-12-16 16:09:15 - NVDA_data_processor - INFO: Raw data saved to data\NVDA_raw_data.csv
+2024-12-16 16:09:15 - NVDA_data_processor - INFO: Starting data processing
+2024-12-16 16:09:15 - NVDA_data_processor - INFO: Initial data rows: 6324
+2024-12-16 16:09:15 - NVDA_data_processor - INFO: 
+--- Data Validation Report ---
+Initial Rows: 6324
+Missing Rows Removed: 0
+Duplicate Rows Removed: 2
+Invalid Rows Removed: 1
+Final Rows: 6321
+-----------------------------
+2024-12-16 16:09:15 - NVDA_data_processor - INFO: Cleaned data saved to data\NVDA_cleaned_data.csv
+2024-12-16 16:09:15 - NVDA_data_processor - INFO: Data processing completed successfully for NVDA
+2024-12-16 16:14:52 - NVDA_data_processor - INFO: Starting data processing workflow for NVDA
+2024-12-16 16:14:52 - NVDA_data_processor - INFO: Fetching stock data for NVDA
+2024-12-16 16:14:52 - NVDA_data_processor - ERROR: Invalid API response: No time series data found
+2024-12-16 16:14:52 - NVDA_data_processor - ERROR: API Access Error: Failed to fetch data for NVDA
+2024-12-16 16:15:43 - NVDA_data_processor - INFO: Starting data processing workflow for NVDA
+2024-12-16 16:15:43 - NVDA_data_processor - INFO: Fetching stock data for NVDA
+2024-12-16 16:15:49 - NVDA_data_processor - ERROR: Invalid API response: No time series data found
+2024-12-16 16:15:49 - NVDA_data_processor - ERROR: API Access Error: Failed to fetch data for NVDA
+2024-12-16 16:16:14 - NVDA_data_processor - INFO: Starting data processing workflow for NVDA
+2024-12-16 16:16:14 - NVDA_data_processor - INFO: Fetching stock data for NVDA
+2024-12-16 16:16:14 - NVDA_data_processor - ERROR: Invalid API response: No time series data found
+2024-12-16 16:16:14 - NVDA_data_processor - ERROR: API Access Error: Failed to fetch data for NVDA
+2024-12-16 16:16:23 - NVDA_data_processor - INFO: Starting data processing workflow for NVDA
+2024-12-16 16:16:23 - NVDA_data_processor - INFO: Fetching stock data for NVDA
+2024-12-16 16:16:23 - NVDA_data_processor - ERROR: Invalid API response: No time series data found
+2024-12-16 16:16:23 - NVDA_data_processor - ERROR: API Access Error: Failed to fetch data for NVDA
+2024-12-16 16:53:34 - NVDA_data_processor - INFO: Starting data processing workflow for NVDA
+2024-12-16 16:53:34 - NVDA_data_processor - INFO: Fetching stock data for NVDA
+2024-12-16 16:53:35 - NVDA_data_processor - ERROR: Invalid API response: No time series data found
+2024-12-16 16:53:35 - NVDA_data_processor - ERROR: API Access Error: Failed to fetch data for NVDA
+2024-12-23 16:25:02 - NVDA_data_processor - INFO: Starting data processing workflow for NVDA
+2024-12-23 16:25:02 - NVDA_data_processor - INFO: Fetching stock data for NVDA
+2024-12-23 16:25:03 - NVDA_data_processor - INFO: Raw data saved to data\NVDA/raw_data.csv
+2024-12-23 16:25:03 - NVDA_data_processor - INFO: Starting data processing
+2024-12-23 16:25:03 - NVDA_data_processor - INFO: Initial data rows: 6329
+2024-12-23 16:25:03 - NVDA_data_processor - INFO: 
+--- Data Validation Report ---
+Initial Rows: 6329
+Missing Rows Removed: 0
+Duplicate Rows Removed: 2
+Invalid Rows Removed: 1
+Final Rows: 6326
+-----------------------------
+2024-12-23 16:25:03 - NVDA_data_processor - INFO: Cleaned data saved to data\NVDA/cleaned_data.csv
+2024-12-23 16:25:03 - NVDA_data_processor - INFO: Data processing completed successfully for NVDA
+2024-12-23 16:25:57 - NVDA_data_processor - INFO: Starting data processing workflow for NVDA
+2024-12-23 16:25:57 - NVDA_data_processor - INFO: Fetching stock data for NVDA
+2024-12-23 16:25:58 - NVDA_data_processor - INFO: Raw data saved to data\NVDA/stock_raw_data.csv
+2024-12-23 16:25:58 - NVDA_data_processor - INFO: Starting data processing
+2024-12-23 16:25:58 - NVDA_data_processor - INFO: Initial data rows: 6329
+2024-12-23 16:25:58 - NVDA_data_processor - INFO: 
+--- Data Validation Report ---
+Initial Rows: 6329
+Missing Rows Removed: 0
+Duplicate Rows Removed: 2
+Invalid Rows Removed: 1
+Final Rows: 6326
+-----------------------------
+2024-12-23 16:25:58 - NVDA_data_processor - INFO: Cleaned data saved to data\NVDA/stock_cleaned_data.csv
+2024-12-23 16:25:58 - NVDA_data_processor - INFO: Data processing completed successfully for NVDA
+2024-12-23 16:27:20 - NVDA_data_processor - INFO: Starting data processing workflow for NVDA
+2024-12-23 16:27:20 - NVDA_data_processor - INFO: Fetching stock data for NVDA
+2024-12-23 16:27:22 - NVDA_data_processor - INFO: Raw data saved to data\NVDA/stock_raw_data.csv
+2024-12-23 16:27:22 - NVDA_data_processor - INFO: Starting data processing
+2024-12-23 16:27:22 - NVDA_data_processor - INFO: Initial data rows: 6329
+2024-12-23 16:27:22 - NVDA_data_processor - INFO: 
+--- Data Validation Report ---
+Initial Rows: 6329
+Missing Rows Removed: 0
+Duplicate Rows Removed: 2
+Invalid Rows Removed: 1
+Final Rows: 6326
+-----------------------------
+2024-12-23 16:27:22 - NVDA_data_processor - INFO: Cleaned data saved to data\NVDA/stock_cleaned_data.csv
+2024-12-23 16:27:22 - NVDA_data_processor - INFO: Data processing completed successfully for NVDA

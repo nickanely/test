@@ -4,25 +4,11 @@ import pandas as pd
 
 
 class StockDataProcessorError(Exception):
-    """
-    Base exception for Stock Data Processor errors.
 
-    This is a parent class for all custom exceptions in the module,
-    allowing for more granular error handling.
-    """
     pass
 
 
 class APIAccessError(StockDataProcessorError):
-    """
-    Raised when there are issues accessing the Alpha Vantage API.
-
-    This could be due to:
-    - Invalid API key
-    - Network issues
-    - Rate limiting
-    - Unexpected API response
-    """
 
     def __init__(self, message: str, status_code: Optional[int] = None):
         """
@@ -37,15 +23,6 @@ class APIAccessError(StockDataProcessorError):
 
 
 class DataProcessingError(StockDataProcessorError):
-    """
-    Raised when there are issues processing stock data.
-
-    This could be due to:
-    - Invalid data format
-    - Unexpected data structure
-    - Data type conversion issues
-    """
-
     def __init__(self, message: str, problematic_data: Optional[pd.DataFrame] = None):
         """
         Initialize the data processing error.
@@ -59,4 +36,19 @@ class DataProcessingError(StockDataProcessorError):
 
 
 class StockDataValidationError(Exception):
+    pass
+
+
+class StockPricePredictionError(Exception):
+    """Base exception for stock price prediction errors."""
+    pass
+
+
+class DataPreparationError(StockPricePredictionError):
+    """Exception raised for errors in data preparation."""
+    pass
+
+
+class ModelError(StockPricePredictionError):
+    """Exception raised for errors in model training or prediction."""
     pass

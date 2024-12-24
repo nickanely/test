@@ -1,0 +1,20 @@
+2024-12-23 15:28:40,133 - StockPricePredictor - INFO - Starting data preparation
+2024-12-23 15:28:40,148 - StockPricePredictor - INFO - Feature Correlations:
+Open                 0.999548
+High                 0.999776
+Low                  0.999821
+Volume               0.144976
+Daily_Range          0.836331
+Average_Price        0.999788
+5Day_Rolling_Avg     0.994139
+10Day_Rolling_Avg    0.986431
+20Day_Rolling_Avg    0.972414
+Price_Momentum       0.032412
+Volume_Momentum      0.030378
+dtype: float64
+2024-12-23 15:28:40,151 - StockPricePredictor - INFO - Data preparation completed successfully
+2024-12-23 15:28:40,157 - StockPricePredictor - INFO - Starting model training
+2024-12-23 15:28:40,157 - StockPricePredictor - INFO - Training LinearRegression model
+2024-12-23 15:28:40,260 - StockPricePredictor - INFO - LinearRegression Results - R² Score: 0.9991 (±0.0007)
+2024-12-23 15:28:40,260 - StockPricePredictor - INFO - Training RandomForest model
+2024-12-23 15:28:48,204 - StockPricePredictor - INFO - RandomForest Results - R² Score: 0.7480 (±0.4063)
